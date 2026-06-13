@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(13, 17, 23);
+}
+.body-1{
+    /* border-style:dotted;
+    border-color: blueviolet; */
+    display: flex;
+    justify-content: space-between;
+    margin-left: 70px;
+    margin-right: 70px;
+
+
+}
+.body-1-left{
+    display: flex;
+    flex-direction: column;
+    color:#9FB1D1;
+    font-family: -apple-system, BlinkMacSystemFont,
+    "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans;
+}
+
+.body-1-right{
+    padding-top: 70px;
+}
